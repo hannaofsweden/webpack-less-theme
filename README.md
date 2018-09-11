@@ -1,5 +1,7 @@
 # webpack-less-theme-plugin
 
+A fork of webpack-less-theme-plugin, but uses reference imports instead.
+
 Inject less variables to your less file. Support HMR.
 
 ## Installation
