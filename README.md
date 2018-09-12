@@ -7,7 +7,7 @@ Works with HMR without generating duplicate CSS code.
 ## Installation
 
 ```bash
-$ npm i webpack-less-theme-plugin --save-dev
+$ npm i webpack-less-theme --save-dev
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ Add to webpack config.
 
 ```javascript
 // webpack.config.js
-const LessThemePlugin = require('webpack-less-theme-plugin');
+const LessThemePlugin = require('webpack-less-theme');
 
 module.exports = {
   ...,
